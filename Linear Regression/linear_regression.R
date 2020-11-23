@@ -1,5 +1,5 @@
 # Problem 1
-setwd("D:/Academics/Harvard/2020 Fall/Analytics Edge/Assignments/HW1")
+setwd("file_path")
 climate <- read.csv("climate_change.csv")
 
 # Split data into training and testing sets
