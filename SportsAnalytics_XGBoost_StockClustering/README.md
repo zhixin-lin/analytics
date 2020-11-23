@@ -1,4 +1,4 @@
-# Sports Analytics with XGBoost and Stock Clustering
+# Salary Prediction with XGBoost and Stock Return Clustering
 An exercise comprising of two parts. 
 1. XGboost: predicting salary of 263 players from the Major League Baseball (MLB) in 1986.
 2. Clustering stock returns with both k-means and hieracihcal clustering. Data contains monthly returns from some
