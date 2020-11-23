@@ -1,4 +1,4 @@
-cd("D:/Academics/Harvard/2020 Fall/Analytics Edge/Assignments/HW5")
+cd("file_path")
 
 ### Importation of relevant packages
 using JuMP
