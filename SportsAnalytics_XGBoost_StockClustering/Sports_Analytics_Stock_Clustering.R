@@ -8,7 +8,7 @@ library(leaps)
 library(xgboost)
 library(cluster)
 
-setwd("D:/Academics/Harvard/2020 Fall/Analytics Edge/Assignments/HW4")
+setwd("file_path")
 Hitters_raw <- read.csv("Hitters.csv")
 
 # Define a function for calculating out-of-sample R-squared
