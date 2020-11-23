@@ -7,7 +7,7 @@ library(randomForest)
 library(ggplot2)
 library(splines)
 library(ModelMetrics)
-setwd("D:/Academics/Harvard/2020 Fall/Analytics Edge/Assignments/HW3")
+setwd("file_path")
 
 # Define a function for calculating out-of-sample R-squared
 calc.OSR2 <- function(actuals, model.preds, baseline.preds) {
