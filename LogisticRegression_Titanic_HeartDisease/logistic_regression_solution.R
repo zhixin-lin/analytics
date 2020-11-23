@@ -3,7 +3,7 @@ library(caret)
 library(ROCR)
 
 # Problem 1
-setwd("D:/Academics/Harvard/2020 Fall/Analytics Edge/Assignments/HW2")
+setwd("file_path")
 titanic <- read.csv("titanic.csv")
 titanic$Pclass <- factor(titanic$Pclass)
 titanic$Sex <- factor(titanic$Sex)
